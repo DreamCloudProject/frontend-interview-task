@@ -11,6 +11,12 @@ Build a simplified CRM dashboard with a client list, detail view, and ability to
 - Edit client email and status.
 - Add new client form with validation.
 
+## 📐 Design Reference
+
+Use the following Figma design as a visual reference for layout and UI components:
+
+🔗 [CRM Dashboard Template](https://www.figma.com/design/RdzFjyRJAFlgnUkwzE0ffx/CRM-Dashboard?node-id=0-1&t=hoB1VJhYHLi87SBZ-1)
+
 ### 🪪 Mock Data
 
 ```
