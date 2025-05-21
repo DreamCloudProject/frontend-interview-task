@@ -27,8 +27,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Acme Inc",
       "email":"john@acme.com",
       "status":"active",
-      "notes":"Top client",
-      "activity":"Last contacted 2 days ago"
+      "salary":"$95,000",
+      "startDate":"2023-03-15"
    },
    {
       "id":2,
@@ -36,8 +36,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Beta Corp",
       "email":"jane@beta.com",
       "status":"inactive",
-      "notes":"Waiting for response",
-      "activity":"Last contacted 1 week ago"
+      "salary":"$88,000",
+      "startDate":"2022-11-01"
    },
    {
       "id":3,
@@ -45,8 +45,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Gamma LLC",
       "email":"alice@gamma.com",
       "status":"active",
-      "notes":"Met at conference",
-      "activity":"Last contacted yesterday"
+      "salary":"$105,000",
+      "startDate":"2024-01-10"
    },
    {
       "id":4,
@@ -54,8 +54,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Delta Inc",
       "email":"bob@delta.com",
       "status":"inactive",
-      "notes":"Requested callback",
-      "activity":"No contact yet"
+      "salary":"$79,500",
+      "startDate":"2021-07-22"
    },
    {
       "id":5,
@@ -63,8 +63,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Epsilon Partners",
       "email":"carlos@epsilon.com",
       "status":"active",
-      "notes":"Frequent buyer",
-      "activity":"Last contacted 3 days ago"
+      "salary":"$92,300",
+      "startDate":"2022-09-05"
    },
    {
       "id":6,
@@ -72,8 +72,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Zeta Group",
       "email":"diana@zeta.com",
       "status":"active",
-      "notes":"Potential lead",
-      "activity":"Last contacted today"
+      "salary":"$110,000",
+      "startDate":"2023-06-01"
    },
    {
       "id":7,
@@ -81,8 +81,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Eta Networks",
       "email":"evan@eta.com",
       "status":"inactive",
-      "notes":"Cold lead",
-      "activity":"Last contacted 2 months ago"
+      "salary":"$76,000",
+      "startDate":"2020-12-12"
    },
    {
       "id":8,
@@ -90,8 +90,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Theta Solutions",
       "email":"fiona@theta.com",
       "status":"active",
-      "notes":"Interested in demo",
-      "activity":"Last contacted 5 days ago"
+      "salary":"$98,750",
+      "startDate":"2023-04-18"
    },
    {
       "id":9,
@@ -99,8 +99,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Iota Systems",
       "email":"george@iota.com",
       "status":"inactive",
-      "notes":"Meeting scheduled",
-      "activity":"Scheduled for next week"
+      "salary":"$84,900",
+      "startDate":"2023-10-09"
    },
    {
       "id":10,
@@ -108,8 +108,8 @@ Use the following Figma design as a visual reference for layout and UI component
       "company":"Kappa Enterprises",
       "email":"hannah@kappa.com",
       "status":"active",
-      "notes":"Important partner",
-      "activity":"Last contacted 4 days ago"
+      "salary":"$101,200",
+      "startDate":"2024-02-28"
    }
 ]
 ```
