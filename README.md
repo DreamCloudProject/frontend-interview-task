@@ -132,10 +132,3 @@ Feel free to use your preferred frontend stack. Recommended:
 - Optional: React Query / Zustand / Redux / Formik
 
 ---
-
-## 🛠 Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/DreamCloudProject/frontend-interview-task.git
-````
